@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: devops-cicd-demo
-        image: reddy/devops-cicd-demo:latest
+        image: kiranreddy678/devops-cicd-demo:latest
         ports:
         - containerPort: 3000
